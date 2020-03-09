@@ -27,5 +27,7 @@ Solution
 
 ![Solution](/docs/arch/arch.jpeg)
 
-![add](/docs/arch/Screen Shot 2020-03-10 at 7.27.04 am.png)
+![add](/docs/screenshot1.png)
+
+![list](/docs/assetlist.png)
 
