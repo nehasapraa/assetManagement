@@ -1,0 +1,92 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Assets List renders correctly 1`] = `
+<div
+  class="row"
+>
+  <div
+    class="col-12"
+  >
+    <h2>
+      
+      Asset List
+      
+      <a
+        class=""
+        href="/#/add-asset"
+        target="_self"
+      >
+        (Add Asset)
+      </a>
+    </h2>
+     
+    <table
+      aria-busy="false"
+      aria-colcount="3"
+      class="table b-table table-striped"
+      id="__BVID__5"
+      name="assetList"
+      role="table"
+    >
+      <!---->
+      <!---->
+      <thead
+        class=""
+        role="rowgroup"
+      >
+        <!---->
+        <tr
+          class=""
+          role="row"
+        >
+          <th
+            aria-colindex="1"
+            aria-sort="none"
+            class=""
+            role="columnheader"
+            scope="col"
+            tabindex="0"
+          >
+            Name
+            <span
+              class="sr-only"
+            >
+               (Click to sort Ascending)
+            </span>
+          </th>
+          <th
+            aria-colindex="2"
+            aria-sort="none"
+            class=""
+            role="columnheader"
+            scope="col"
+            tabindex="0"
+          >
+            Shopping Center
+            <span
+              class="sr-only"
+            >
+               (Click to sort Ascending)
+            </span>
+          </th>
+          <th
+            aria-colindex="3"
+            class=""
+            role="columnheader"
+            scope="col"
+            tabindex="0"
+          >
+            Location
+          </th>
+        </tr>
+      </thead>
+      <tbody
+        role="rowgroup"
+      />
+      <!---->
+    </table>
+     
+    <!---->
+  </div>
+</div>
+`;
